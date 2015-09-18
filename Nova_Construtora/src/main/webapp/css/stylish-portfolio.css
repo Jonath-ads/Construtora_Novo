@@ -305,7 +305,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: rgba(0, 0, 0, 1);
     background: #18bc9c;
 }
 
@@ -405,7 +405,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    background: #337ab7;
 }
 
 section.success a,

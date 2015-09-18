@@ -210,6 +210,10 @@ hr.small {
     opacity: 0.8;
 }
 
+.img-footer:hover{
+	opacity: 0.8;
+}
+
 /* Call to Action */
 
 .call-to-action {
@@ -481,6 +485,9 @@ section.success a.active {
 @media(min-width:767px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
+    }
+    #footer .footer-item{
+    	margin: 0 0 30px;
     }
 }
 
